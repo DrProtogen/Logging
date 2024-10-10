@@ -1,7 +1,20 @@
-{
-    "name": "John",
-    "age": 30,
-    "city": "New York",
-    "isStudent": false,
-    "courses": [ "Math", "Science", "History" ]
-}
+[
+    {
+        "username": "Player1",
+        "display_name": "Player One",
+        "item_sold": "Gold Pickaxe",
+        "money_got": 150
+    },
+    {
+        "username": "Player2",
+        "display_name": "Player Two",
+        "item_sold": "Silver Sword",
+        "money_got": 200
+    },
+    {
+        "username": "Player3",
+        "display_name": "Player Three",
+        "item_sold": "Diamond Armor",
+        "money_got": 500
+    }
+]
