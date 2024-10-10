@@ -1,0 +1,22 @@
+{
+    "Player1": [
+      {
+        "display_name": "Player1",
+        "item_sold": "Sword",
+        "money_got": 100
+      },
+      {
+        "display_name": "Player1",
+        "item_sold": "Shield",
+        "money_got": 150
+      }
+    ],
+    "Player2": [
+      {
+        "display_name": "Player2",
+        "item_sold": "Bow",
+        "money_got": 50
+      }
+    ]
+  }
+  
