@@ -4,11 +4,6 @@
             "display_name": "DrProtogen",
             "item_sold": "Marble",
             "money_got": 150
-        },
-        {
-            "display_name": "Player One",
-            "item_sold": "Silver Sword",
-            "money_got": 200
         }
     ],
     "Player2": [
