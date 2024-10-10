@@ -1,0 +1,28 @@
+{
+    "Player1": [
+        {
+            "display_name": "Player One",
+            "item_sold": "Gold Pickaxe",
+            "money_got": 150
+        },
+        {
+            "display_name": "Player One",
+            "item_sold": "Silver Sword",
+            "money_got": 200
+        }
+    ],
+    "Player2": [
+        {
+            "display_name": "Player Two",
+            "item_sold": "Diamond Armor",
+            "money_got": 500
+        }
+    ],
+    "Player3": [
+        {
+            "display_name": "Player Three",
+            "item_sold": "Iron Axe",
+            "money_got": 100
+        }
+    ]
+}
