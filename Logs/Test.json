@@ -1,12 +1,4 @@
 {
-    "name": "roblox-logging-system",
-    "version": "1.0.0",
-    "description": "A simple logging system for Roblox integrated with Vercel.",
-    "scripts": {
-        "start": "vercel dev"
-    },
-    "dependencies": {
-        "vercel": "^28.0.0",
-        "next": "^13.0.0" // Add this line
-    }
+    "key": "value",
+    "..."
 }
